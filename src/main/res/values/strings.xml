@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">A11 Music Player</string>
+    <string name="album_cover">Album Cover</string>
+    <string name="textview">TextView</string>
+    <string name="next">Next</string>
+    <string name="play">Play</string>
+    <string name="previous">Previous</string>
+</resources>
